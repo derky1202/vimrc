@@ -11,6 +11,9 @@
 "                    https://github.com/brandon-wallace
 "
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+set fileencodings=ucs-bom,utf-8,utf-16,gbk,big5,gb18030,latin1,cp936
+set termencoding=utf-8
+set encoding=utf-8
 
 " Disable compatibilty with Vi.
 set nocompatible
